@@ -12,7 +12,7 @@ GNOME since version 17.10.
 2022, the most recent long-term support release is [22.04](https://ubuntu.com/download/desktop) ("Jammy Jellyﬁsh").
 
 
-###Currently supported releases
+### Currently supported releases
 
 | Version   | Code  Name     | Release Date | End of Support | Security support end |
 | --------- | -------------- | ------------ | -------------- | -------------------- |
