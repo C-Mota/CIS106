@@ -29,7 +29,7 @@ semester: Spring 23
 | echo    | display a line of text                                                             |
 | fortune | prints out a random epigram                                                        |
 | cowsay  | generates an ASCII picture of a cow saying something provided by the user          |
-| lolcat  | documents briefly the lolcat command                                               |
+| lolcat  |  is  a  program  that  concatenates files, or standard input, to standard output (like the generic cat), and adds  rainbow  coloring  to it.|
 | figlet  | prints  its  input  using large characters made up of  ordinary  screen characters |
 | toilet  | prints text using large characters made of smaller characters                      |
 | rig     | utility that will piece together a random first name, last name, street number and address, along with a geographically consistant city, state, ZIP code and area code|
