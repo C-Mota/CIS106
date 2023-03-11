@@ -57,6 +57,6 @@ This command will recursively remove the directory mydirectory and all its conte
 **Practice 2**
 ![practice2](wr5_practice2.png)
 **Practice 3**
-![practice3](wr5_practice3.png)
+![practice3](wr5_practice3.png)  
 **Practice 4**
 ![practice4](wr5_practice4.png)
